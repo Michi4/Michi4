@@ -12,15 +12,17 @@
   <a href="https://michi4.is-a.dev"><img src="https://img.shields.io/badge/Website-Visit%20Now!-blue?style=for-the-badge"></a>
 </p>
 
-### 🚀 Current Projects:  <img src="https://i.giphy.com/2IudUHdI075HL02Pkk.webp" width="30px">
+### 🚀 Current Projects:  
 
 - **[HomeFlow](https://github.com/Michi4/HomeFlow)**: A HomeAssistant-like project using Nuxt.js
 - **[SpaceRunner](https://github.com/Michi4/SpaceRunner)**: A Vanilla JS Canvas Platformer Game.
 - **[LuminAI](https://github.com/LuminAIOrg/LuminAI)**: Virtualization of solar with AI.
 
----
+<p align="center">
+<img src="https://i.giphy.com/2IudUHdI075HL02Pkk.webp" width="140px">
+</p>
 
-### 🛠️ Some of my Languages and Tools I Use:
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript">
@@ -30,11 +32,9 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff" alt="Node.js">
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff" alt="Docker">
+<br>
+  went out of badges :c
 </p>
-
-went out of badges :c
-
----
 
 <details>
   <summary>More Stats</summary>
@@ -48,5 +48,3 @@ went out of badges :c
   </div>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=michi4&label=Views&color=0e75b6&style=flat" alt="michi4" /> </p>
 </details>
-
----
