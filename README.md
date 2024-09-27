@@ -19,7 +19,7 @@
 - **[LuminAI](https://github.com/LuminAIOrg/LuminAI)**: Virtualization of solar with AI.
 
 <p align="center">
-<img src="https://i.giphy.com/2IudUHdI075HL02Pkk.webp" width="140px">
+<img src="https://i.giphy.com/2IudUHdI075HL02Pkk.webp" width="150px">
 </p>
 
 ---
