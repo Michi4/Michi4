@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Michi4! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Michi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ### About Me:
 <div style="display: flex">
@@ -33,13 +33,6 @@
 </p>
 
 went out of badges :c
-
-- **Languages**: JavaScript, TypeScript, Kotlin, Python, Swift, Java, PHP
-- **Frontend**: Vue.js, React, Angular, TailwindCSS, Bootstrap
-- **Backend**: Node.js, Express, Flask, Spring
-- **Databases**: PostgreSQL, MySQL, MongoDB, MariaDB
-- **Tools & Platforms**: Docker, Nginx, AWS, Git, Figma, Arduino, Blender
-- **Other**: Selenium, Unity, Linux, Grafana, Flutter, Arduino, IoT (MQTT, Tasmota)
 
 ---
 
