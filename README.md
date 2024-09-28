@@ -12,11 +12,12 @@
   <a href="https://michi4.is-a.dev"><img src="https://img.shields.io/badge/Website-Visit%20Now!-blue?style=for-the-badge"></a>
 </p>
 
-### 🚀 Current Projects:  
+### Current Projects:  
 
 - **[HomeFlow](https://github.com/Michi4/HomeFlow)**: A HomeAssistant-like project using Nuxt.js
 - **[SpaceRunner](https://github.com/Michi4/SpaceRunner)**: A Vanilla JS Canvas Platformer Game.
 - **[LuminAI](https://github.com/LuminAIOrg/LuminAI)**: Virtualization of solar with AI.
+- <a href="https://michi.is-a.dev">My Personal Website</a>
 
 <p align="center">
 <img src="https://i.giphy.com/2IudUHdI075HL02Pkk.webp" width="150px">
