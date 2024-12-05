@@ -9,7 +9,7 @@
 
 </div>
 <p align="center">
-  <a href="https://michi4.is-a.dev"><img src="https://img.shields.io/badge/Website-Visit%20Now!-blue?style=for-the-badge"></a>
+  <a href="https://michi.is-a.dev"><img src="https://img.shields.io/badge/Website-Visit%20Now!-blue?style=for-the-badge"></a>
 </p>
 
 ### Current Projects:  
