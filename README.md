@@ -40,11 +40,8 @@
 
 <details>
   <summary>More Stats</summary>
-  <div>
-    <p align="center">
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Michi4)
-    </p>
-  </div>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Michi4)
   
   <div>
     <p align="center">
