@@ -25,8 +25,6 @@
 
 ---
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michi4&show_icons=true&theme=radical)
-
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=fff" alt="Vue.js">
@@ -41,6 +39,12 @@
 
 <details>
   <summary>More Stats</summary>
+  <div>
+    <p align="center">
+      <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=michi4&show_icons=true&theme=radical" alt="Michi's GitHub Stats">
+    </p>
+  </div>
+  
   <div>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Michi4&show_icons=true&theme=radical" alt="Michi's GitHub Stats">
