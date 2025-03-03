@@ -40,9 +40,6 @@
 
 <details>
   <summary>More Stats</summary>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Michi4)
-  
   <div>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Michi4&show_icons=true&theme=radical" alt="Michi's GitHub Stats">
@@ -52,4 +49,7 @@
     <img src="https://profile-counter.glitch.me/Michi4/count.svg?"  />
   </div>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=michi4&label=Views&color=0e75b6&style=flat" alt="michi4" /> </p>
+
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Michi4)
+  
 </details>
