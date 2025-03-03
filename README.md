@@ -41,7 +41,7 @@
   <summary>More Stats</summary>
   <div>
     <p align="center">
-      <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=michi4&show_icons=true&theme=radical" alt="Michi's GitHub Stats">
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Michi4)
     </p>
   </div>
   
