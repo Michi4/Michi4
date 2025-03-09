@@ -50,6 +50,8 @@
   </div>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=michi4&label=Views&color=0e75b6&style=flat" alt="michi4" /> </p>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Michi4)
-  
+<details>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Michi4)  
+</details>
+
 </details>
